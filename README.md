@@ -9,10 +9,10 @@
 ```python
 class YashGondaliya:
     def __init__(self):
-        self.role = "Data Scientist & ML Engineer"
+        self.role = "Data Scientist & AI/ML Engineer"
         self.focus = ["Predictive Analytics", "NLP", "Generative AI"]
         self.current = "Building AI-powered applications"
-        self.exploring = ["AI Agents", "RAG Systems", "LLM Fine-tuning"]
+        self.exploring = ["AI Agents", "RAG Systems", "Automation"]
         
     def say_hi(self):
         print("Thanks for dropping by! Let's build something intelligent together.")
